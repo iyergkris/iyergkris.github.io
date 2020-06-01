@@ -14,7 +14,7 @@ resume_name:                    "Gopal Iyer, Ph.D."
 resume_title:                   "Senior R&D Engineer (Cybersecurity)"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "iyer.gkris@gmail.com"
+resume_contact_email:           "iyer.gkris [at] gmail [dot] com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "-"
