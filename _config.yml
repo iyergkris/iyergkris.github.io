@@ -20,7 +20,7 @@ resume_contact_email:           "iyer.gkris [at] gmail [dot] com"
 resume_contact_telephone:       "-"
 resume_contact_address:         "Santa Clara, CA"
 
-resume_header_contact_info:     "Santa Clara, CA • iyer.gkris@gmail.com"
+resume_header_contact_info:     "Santa Clara, CA • iyergkris [at] gmail [dot] com"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>I'm an experienced Research and Development specialist with a demonstrated history of working in the telecommunication and automotive industries. I have a good research track record in the study of reliability, scalability and security of the Smart Grid. More recently, I serve as an SME in Automotive security and design state-of-the art defenses for connected vehicles. My skills include Embedded Security, Reverse Engineering, Machine Learning, Simulation and GNU Radio among others. I am proficient in C, C++ and Python.</p>"
