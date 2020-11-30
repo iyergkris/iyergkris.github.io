@@ -13,7 +13,11 @@
 
 - title: Systems and Methods for identifying source code from binaries using machine learning
   inventors: G. Iyer, A. Kashani
-  number: US Patent App. 16/162,768
+  number: US Patent 10,761,841 (Granted)
+
+- title: Systems and Methods for Selectively Instrumenting a Program According to Performance Characteristics
+  inventors: A. Kashani, G.Iyer
+  number: US Patent 10,768,915 (Granted)
 
 - title: Systems and Methods for Optimizing Control Flow Graphs for Functional Safety using Fault Tree Analysis
   inventors: G. Iyer, A. Kashani
@@ -23,6 +27,3 @@
   inventors: G. Iyer, A. Kashani
   number: US Patent App. 16/163,936
 
-- title: Systems and Methods for Selectively Instrumenting a Program According to Performance Characteristics
-  inventors: G. Iyer, A. Kashani
-  number: US Patent App. 16/164,173
