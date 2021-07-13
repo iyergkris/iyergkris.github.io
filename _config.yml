@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Gopal Iyer, Ph.D."
-resume_title:                   "Senior R&D Engineer (Cybersecurity)"
+resume_title:                   "Senior Cybersecurity Expert"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "iyergkris [at] gmail [dot] com"
@@ -23,7 +23,7 @@ resume_contact_address:         "Santa Clara, CA"
 resume_header_contact_info:     "Santa Clara, CA • iyergkris [at] gmail [dot] com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>I'm an experienced Research and Development specialist with a demonstrated history of working in the telecommunication and automotive industries. I have a good research track record in the study of reliability, scalability and security of the Smart Grid. More recently, I serve as an SME in Automotive security and design state-of-the art defenses for connected vehicles. My skills include Embedded Security, Reverse Engineering, Machine Learning, Simulation and GNU Radio among others. I am proficient in C, C++ and Python.</p>"
+resume_header_intro: "<p>I'm an experienced R&D and Cybersecurity specialist with a demonstrated history of working in the telecommunication and automotive industries. I have a good research track record in the study of reliability, scalability and security of the Smart Grid. I have served as an SME in Automotive security and have designed state-of-the art defenses for connected vehicles. More recently, I help secure medical devices, surgical robots and intruments. My skills include Embedded Security, Reverse Engineering, Machine Learning, Simulation and GNU Radio among others. I am proficient in C, C++ and Python.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -55,7 +55,3 @@ resume_print_social_links:      true
 
 # Design settings
 resume_theme:                   default
-
-# Note: when editing locally, remember to restart
-# your Jekyll server when you edit this file. Changes
-# to _config.yml are only recognized when the server starts
