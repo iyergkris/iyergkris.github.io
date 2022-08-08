@@ -1,27 +1,39 @@
-# Patents
+# Patents (9 Granted)
+- title: Apparatus and method of control flow integrity enforcement utilizing boundary checking
+  inventors: A. Kashani, G. Iyer
+  number: US Patent 11,163,645 (Granted Nov 2021)
+
+- title: Systems and methods for identifying source code from binaries using machine learning
+  inventors: G. Iyer
+  number: US Patent 10,761,841 (Granted Sep 2020)
+
+- title: Binary patch reconciliation and instrumentation system
+  inventors: G. Iyer, A. Kashani
+  number: US Patent 11,397,817 (Granted July 2022)
+
 - title: Systems and Methods for Dynamically Identifying Data Arguments and Instrumenting Source Code
   inventors: G. Iyer, A. Kashani, R. Takeuchi
-  number: US Patent 10,657,025 (Granted)
+  number: US Patent 10,657,025 (Granted May 2020)
 
 - title: Systems and Methods for Dynamically Identifying Program Control Flow and Instrumenting Source Code
   inventors: G. Iyer, A. Kashani
-  number: US Patent 10,628,286 (Granted)
+  number: US Patent 10,628,286 (Granted Apr 2020)
 
 - title: System and Methods for Parallel Execution and Comparison of Related Processes for Fault Protection
   inventors: G. Iyer, A. Kashani
-  number: US Patent 10,545,850 (Granted)
+  number: US Patent 10,545,850 (Granted Jan 2020)
 
 - title: Systems and Methods for identifying source code from binaries using machine learning
   inventors: G. Iyer, A. Kashani
-  number: US Patent 10,761,841 (Granted)
+  number: US Patent 10,761,841 (Granted Apr 2020)
 
 - title: Systems and Methods for Selectively Instrumenting a Program According to Performance Characteristics
   inventors: A. Kashani, G.Iyer
-  number: US Patent 10,768,915 (Granted)
+  number: US Patent 10,768,915 (Granted Sep 2020)
 
 - title: Systems and Methods for Optimizing Control Flow Graphs for Functional Safety using Fault Tree Analysis
   inventors: G. Iyer, A. Kashani
-  number: US Patent 11,036,866 (Granted)
+  number: US Patent 11,036,866 (Granted Jun 2021)
 
 - title: Systems and Methods for Preventing Runaway Execution of Artificial Intelligence-based Programs
   inventors: G. Iyer, A. Kashani
