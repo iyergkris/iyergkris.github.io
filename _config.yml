@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Gopal Iyer, Ph.D."
-resume_title:                   "Senior Cybersecurity Expert"
+resume_title:                   "Product Security Leader"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "iyergkris [at] gmail [dot] com"
@@ -23,7 +23,7 @@ resume_contact_address:         "Fremont, CA"
 resume_header_contact_info:     "Fremont, CA • iyergkris [at] gmail [dot] com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>I'm an experienced R&D and Cybersecurity specialist with a demonstrated history of working in telecommunication, smart grid, automotive and medical device industries. I have a good research and innovation track record in the areas of reliability, scalability and security of Cyber-physical systems. I have served as an SME in Automotive security and have designed and architected state-of-the art defenses for connected vehicles. More recently, I secure medical devices, surgical robots and instruments. My skills include Embedded Security, Reverse Engineering, Machine Learning, Simulation and GNU Radio among others. I am proficient in C, C++ and Python.</p>"
+resume_header_intro: "<p>I am a highly skilled and experienced cybersecurity leader with a demonstrated history of success in the automotive and medical device industries. I possess a strong understanding of embedded systems security and a proven ability to identify and mitigate potential vulnerabilities, including expertise in zero-day defenses. I have led teams to implement robust security solutions, combined with my knowledge of cryptography and secure coding practices, makes me a valuable asset in developing and managing secure systems.  Furthermore, my commitment to innovation is evident through my authorship of multiple patents and leading research publications in the field.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -38,11 +38,6 @@ resume_section_education:       true
 resume_section_patents:         true
 resume_section_pubs:            true
 resume_section_links:           true
-# resume_section_projects:        true
-# resume_section_recognition:     true
-# resume_section_associations:    true
-# resume_section_interests:       true
-# resume_section_skills:          true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
