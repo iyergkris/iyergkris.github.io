@@ -23,7 +23,7 @@ resume_contact_address:         "Fremont, CA"
 resume_header_contact_info:     "Fremont, CA • iyergkris [at] gmail [dot] com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>I am a highly skilled and experienced cybersecurity leader with a demonstrated history of success in the automotive and medical device industries. I possess a strong understanding of embedded systems security and a proven ability to identify and mitigate potential vulnerabilities, including expertise in zero-day defenses. I have led teams to implement robust security solutions, combined with my knowledge of cryptography and secure coding practices, makes me a valuable asset in developing and managing secure systems.  Furthermore, my commitment to innovation is evident through my authorship of multiple patents and leading research publications in the field.</p>"
+resume_header_intro: "<p>Cybersecurity leader with a proven history of building and managing successful teams in the automotive and medical device industries.  Expertise in embedded systems security, zero-day defenses, and cryptography.  Adept at developing and implementing robust security solutions.  Inventor with multiple patents and publications, demonstrating a commitment to innovation and thought leadership in the field.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
