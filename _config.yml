@@ -1,6 +1,6 @@
 # Site settings
 title: "Gopal Iyer"
-description: "Gopal Iyer's Personal CV Page"
+description: "Gopal Iyer's Personal Website"
 
 # Build settings
 markdown: kramdown
@@ -22,13 +22,13 @@ resume_contact_telephone:       "-"
 resume_header_contact_info:     "San Francisco Bay Area"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Cybersecurity leader with a proven history of building and managing successful teams in the automotive and medical device industries.  Expertise in embedded systems security, zero-day defenses, and cryptography.  Adept at developing and implementing robust security solutions.  Inventor with multiple patents and publications, demonstrating a commitment to innovation and thought leadership in the field.</p>"
+resume_header_intro: "<p> Featured Project: EcoBrowse - Web Eco-Efficiency Analyzer "https://iyergkris.github.io/ecoBrowse/"</p> <p>Cybersecurity leader with a proven history of building and managing successful teams in the automotive and medical device industries.  Expertise in embedded systems security, zero-day defenses, and cryptography.  Adept at developing and implementing robust security solutions.  Inventor with multiple patents and publications, demonstrating a commitment to innovation and thought leadership in the field.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-# resume_looking_for_work:        "yes"
+# resume_looking_for_work:        "no"
 
 # Decide which sections to use
 # comment out to hide
